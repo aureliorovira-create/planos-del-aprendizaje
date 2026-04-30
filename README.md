@@ -6,7 +6,7 @@
 
 # 🛰️ Título del Proyecto
 
-# **Plano Comunicativo – Nave Célula Matrix**
+# **Plano Comunicativo – Nave Célula NEXUS**
 
 > 🚀 *“Conectando ideas, conocimientos y experiencias en entornos virtuales.”*
 
