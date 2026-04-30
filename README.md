@@ -1,3 +1,4 @@
+
 # 🌌 PLANOS DEL APRENDIZAJE
 
 # ⚡ Armando el Circuito Comunicativo
@@ -32,9 +33,9 @@ Todo esto aplicado a experiencias reales dentro del contexto educativo virtual.
 
 | Integrante            | Rol dentro de la nave                                | Contacto                                                                      |
 | --------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Ronald Gallardo       | 🚀 Capitán General                                   | [ronald.gallardo@oteima.ac.pa](mailto:ronald.gallardo@oteima.ac.pa)           |
-| Silvia Lasso          | 🛰️ Subcapitana y coordinadora                       | [silvia.lasso@oteima.ac.pa](mailto:silvia.lasso@oteima.ac.pa)                 |
-| Sandra Guillén        | 📡 Encargada de comunicaciones                       | [sandra.guillen@oteima.ac.pa](mailto:sandra.guillen@oteima.ac.pa)             |
+|        |
+                 |
+    
 | María Elena Rodríguez | 💻 Diseñadora digital y soporte virtual              | [mariaelena.rodriguez@oteima.ac.pa](mailto:mariaelena.rodriguez@oteima.ac.pa) |
 | Marjelys Jiménez      | ⚡ Analista colaborativa                              | [marjelys.jimenez@oteima.ac.pa](mailto:marjelys.jimenez@oteima.ac.pa)         |
 | Emily Gaitán          | 🌐 Supervisora de interacción virtual                | [emily.gaitan@oteima.ac.pa](mailto:emily.gaitan@oteima.ac.pa)                 |
@@ -222,4 +223,3 @@ El trabajo colaborativo fortalece el aprendizaje significativo, mejora la partic
 ---
 
 # ✨ “Conectamos ideas, transmitimos conocimiento y mantenemos activa la energía del aprendizaje.” 🚀
-
