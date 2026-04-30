@@ -1,146 +1,225 @@
-# 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
+# 🌌 PLANOS DEL APRENDIZAJE
 
-## 🛰️ Título:
+# ⚡ Armando el Circuito Comunicativo
 
-# **Plano comunicativo – Nave EduTech Panamá**
+---
+
+# 🛰️ Título del Proyecto
+
+# **Plano Comunicativo – Nave Célula Matrix**
+
+> 🚀 *“Conectando ideas, conocimientos y experiencias en entornos virtuales.”*
 
 ---
 
 # 🎯 1️⃣ Propósito de la actividad
 
-Visualizar los modelos de comunicación como si fueran planos eléctricos, comprendiendo cómo fluye el aprendizaje en entornos virtuales.
+Visualizar los modelos de comunicación como si fueran circuitos inteligentes de una nave espacial educativa, comprendiendo cómo fluye la información dentro de los entornos virtuales de aprendizaje.
 
-Diseñaremos un **circuito comunicativo** identificando roles, rutas, interferencias y conexiones reales en nuestro contexto educativo.
+A través de esta actividad diseñaremos un **circuito comunicativo digital**, identificando:
 
----
+* 🔊 Emisores
+* 👂 Receptores
+* 🌐 Canales de comunicación
+* ⚠️ Interferencias o ruidos
+* 🔁 Retroalimentación
 
-# 👥 2️⃣ Integrantes del grupo
-
-| Nombre         | Rol en el grupo                    | Correo / Contacto                                   |
-| -------------- | ---------------------------------- | --------------------------------------------------- |
-| Aurelio Rovira | Coordinador y diseñador pedagógico | [aurelio@email.com](mailto:aurelio@email.com)       |
-| María Elena    | Investigadora y apoyo visual       | [mariaelena@email.com](mailto:mariaelena@email.com) |
-
----
-
-# 🔍 3️⃣ Exploración de modelos de comunicación
+Todo esto aplicado a experiencias reales dentro del contexto educativo virtual.
 
 ---
 
-## 📡 Modelo Lineal
+# 👥 2️⃣ Tripulación de la Nave Célula Matrix
 
-### 🔹 Representación en clases virtuales:
-
-El docente transmite información al estudiante mediante videos, presentaciones o explicaciones directas.
-
-### 🔹 Ejemplo en nuestro contexto:
-
-La maestra envía un video explicando las funciones cúbicas y los estudiantes observan la explicación desde casa.
-
-### 🔹 Características:
-
-* Comunicación en una sola dirección
-* El docente es el emisor principal
-* El estudiante recibe la información
+| Integrante            | Rol dentro de la nave                                | Contacto                                                                      |
+| --------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Ronald Gallardo       | 🚀 Capitán General                                   | [ronald.gallardo@oteima.ac.pa](mailto:ronald.gallardo@oteima.ac.pa)           |
+| Silvia Lasso          | 🛰️ Subcapitana y coordinadora                       | [silvia.lasso@oteima.ac.pa](mailto:silvia.lasso@oteima.ac.pa)                 |
+| Sandra Guillén        | 📡 Encargada de comunicaciones                       | [sandra.guillen@oteima.ac.pa](mailto:sandra.guillen@oteima.ac.pa)             |
+| María Elena Rodríguez | 💻 Diseñadora digital y soporte virtual              | [mariaelena.rodriguez@oteima.ac.pa](mailto:mariaelena.rodriguez@oteima.ac.pa) |
+| Marjelys Jiménez      | ⚡ Analista colaborativa                              | [marjelys.jimenez@oteima.ac.pa](mailto:marjelys.jimenez@oteima.ac.pa)         |
+| Emily Gaitán          | 🌐 Supervisora de interacción virtual                | [emily.gaitan@oteima.ac.pa](mailto:emily.gaitan@oteima.ac.pa)                 |
+| Aurelio Rovira        | 🎨 Diseñador pedagógico y estructurador del circuito | [aurelio.rovira@oteima.ac.pa](mailto:aurelio.rovira@oteima.ac.pa)             |
 
 ---
 
-## 🔄 Modelo Interactivo
-
-### 🔹 Representación en clases virtuales:
-
-Existe intercambio de preguntas y respuestas entre docentes y estudiantes.
-
-### 🔹 Ejemplo en nuestro contexto:
-
-Durante una videollamada en Google Meet, los estudiantes participan respondiendo preguntas sobre conversiones de unidades.
-
-### 🔹 Características:
-
-* Hay retroalimentación
-* Se utilizan chats y videollamadas
-* La comunicación es bidireccional
+# 🔍 3️⃣ Exploración de Modelos de Comunicación
 
 ---
 
-## 🧠 Modelo Constructivista
+# 📡 Modelo Lineal
 
-### 🔹 Representación en clases virtuales:
+## 🔹 ¿Cómo funciona?
 
-Los estudiantes construyen el aprendizaje colaborativamente utilizando herramientas digitales.
+La información viaja en una sola dirección: del docente hacia los estudiantes.
 
-### 🔹 Ejemplo en nuestro contexto:
-
-Los estudiantes crean mapas conceptuales y resuelven problemas reales en equipo usando Canva y Google Docs.
-
-### 🔹 Características:
-
-* Aprendizaje activo
-* Trabajo colaborativo
-* Construcción de conocimientos
+El profesor transmite conocimientos utilizando plataformas digitales, mientras los estudiantes reciben el contenido.
 
 ---
 
-# 💡 Reflexión grupal
+## 🔹 Aplicación en clases virtuales
+
+* Videoconferencias
+* Videos educativos
+* Presentaciones digitales
+* Clases magistrales
+
+---
+
+## 🔹 Ejemplo en nuestro contexto
+
+En la asignatura de Inglés, el docente explica contenidos mediante Google Meet y comparte materiales digitales para que los estudiantes analicen desde casa.
+
+---
+
+## 🔹 Características principales
+
+✔ Comunicación directa
+✔ El docente es el emisor principal
+✔ Poca interacción inmediata
+✔ Flujo unidireccional
+
+---
+
+# 🔄 Modelo Interactivo
+
+## 🔹 ¿Cómo funciona?
+
+Existe intercambio continuo entre docentes y estudiantes mediante preguntas, respuestas y participación activa.
+
+---
+
+## 🔹 Aplicación en clases virtuales
+
+* Foros
+* Chats
+* Videollamadas
+* Actividades colaborativas
+
+---
+
+## 🔹 Ejemplo en nuestro contexto
+
+Durante las clases virtuales, los estudiantes responden actividades en Moodle y participan activamente realizando preguntas y comentarios en tiempo real.
+
+---
+
+## 🔹 Características principales
+
+✔ Retroalimentación constante
+✔ Comunicación bidireccional
+✔ Participación activa
+✔ Interacción colaborativa
+
+---
+
+# 🧠 Modelo Constructivista
+
+## 🔹 ¿Cómo funciona?
+
+Los estudiantes construyen el conocimiento mediante experiencias, investigación y trabajo colaborativo.
+
+---
+
+## 🔹 Aplicación en clases virtuales
+
+* Creación de mapas conceptuales
+* Proyectos digitales
+* Resolución de problemas
+* Aprendizaje colaborativo
+
+---
+
+## 🔹 Ejemplo en nuestro contexto
+
+Los integrantes de la Nave Célula Matrix diseñan un circuito comunicativo utilizando Canva y Google Docs, integrando ideas y experiencias para representar cómo fluye la información en la educación virtual.
+
+---
+
+## 🔹 Características principales
+
+✔ Aprendizaje activo
+✔ Trabajo colaborativo
+✔ Construcción de conocimientos
+✔ Participación significativa
+
+---
+
+# 💡 4️⃣ Reflexión grupal
+
+---
 
 ## ❓ ¿Qué roles asumimos como emisores y receptores?
 
-Todos los integrantes participan como emisores y receptores al compartir ideas, resolver dudas y colaborar durante las actividades virtuales.
+Todos los integrantes funcionan como emisores y receptores al compartir ideas, resolver dudas, transmitir información y colaborar en las actividades virtuales.
+
+La comunicación se desarrolla de manera dinámica y constante.
 
 ---
 
-## 📱 ¿Qué medios utilizamos?
+## 📱 ¿Qué medios utilizamos para comunicarnos?
 
-* Google Meet
-* WhatsApp
-* Correo electrónico
-* Canva
-* Google Classroom
+* 💻 Google Meet
+* 📱 WhatsApp
+* 📧 Correo institucional
+* 🎨 Canva
+* 🌐 Moodle
+* 📚 Google Classroom
 
 ---
 
 ## ⚠️ ¿Qué obstáculos interfieren en la comunicación?
 
 * Problemas de conexión a internet
-* Distracciones en casa
+* Distracciones en el hogar
+* Fallas tecnológicas
 * Falta de participación
-* Dificultades tecnológicas
+* Problemas de organización del tiempo
 
 ---
 
-# ⚡ 4️⃣ Diseño del circuito comunicativo
+# ⚡ 5️⃣ Diseño del Circuito Comunicativo
 
-| Elemento             | Quién / Qué            | Detalles / Ejemplos                 | Representación visual |
-| -------------------- | ---------------------- | ----------------------------------- | --------------------- |
-| 🔊 Emisor            | Docente y estudiantes  | Comparten información y actividades | 👩‍🏫👨‍🎓            |
-| 👂 Receptor          | Grupo de estudiantes   | Reciben y analizan la información   | 👂📚                  |
-| 🌐 Canal             | Plataformas digitales  | Google Meet, WhatsApp, Classroom    | 💻📱                  |
-| ⚠️ Ruido             | Problemas tecnológicos | Internet lento, distracciones       | 🚫📶                  |
-| 🔁 Retroalimentación | Preguntas y respuestas | Participación y comentarios         | 🔄💬                  |
-
----
-
-# 🌟 Sugerencia creativa
-
-Nuestro circuito comunicativo fue imaginado como:
-
-🚀 **Una nave espacial educativa**, donde cada integrante representa una estación de comunicación conectada mediante señales digitales para mantener activo el aprendizaje.
-
-Cada mensaje funciona como energía que viaja por el circuito permitiendo que la información llegue correctamente a todos los participantes.
+| Elemento             | Quién / Qué           | Función dentro del circuito                   | Representación |
+| -------------------- | --------------------- | --------------------------------------------- | -------------- |
+| 🔊 Emisor            | Docente y estudiantes | Transmiten conocimientos, ideas y actividades | 👩‍🏫📡        |
+| 👂 Receptor          | Estudiantes y docente | Reciben, interpretan y analizan información   | 👨‍🎓👂        |
+| 🌐 Canal             | Plataformas digitales | Google Meet, Moodle, WhatsApp y correo        | 💻📱           |
+| ⚠️ Ruido             | Factores externos     | Mala señal, distracciones y errores técnicos  | 🚫📶           |
+| 🔁 Retroalimentación | Participación grupal  | Preguntas, respuestas y comentarios           | 🔄💬           |
 
 ---
 
-# 🧩 Entregable
+# 🚀 6️⃣ Sugerencia Creativa
 
-✔️ Documento digital en formato PDF
-✔️ Diseño visual del circuito comunicativo
+Nuestro circuito comunicativo fue diseñado como:
+
+# 🌌 “Una Nave Espacial Educativa”
+
+Cada integrante representa una estación de comunicación conectada mediante señales digitales que permiten mantener activo el aprendizaje virtual.
+
+La información viaja como energía a través del circuito, fortaleciendo el trabajo colaborativo y la interacción educativa.
+
+---
+
+# 🧩 7️⃣ Entregable Final
+
+✔️ Documento digital en PDF
+✔️ Diseño visual creativo del circuito comunicativo
 ✔️ Reflexión grupal colaborativa
-✔️ Uso de recursos visuales e íconos tecnológicos
+✔️ Uso de recursos digitales e íconos tecnológicos
+✔️ Integración de herramientas virtuales educativas
 
 ---
 
-# 🌠 Conclusión
+# 🌠 8️⃣ Conclusión
 
-La comunicación es esencial para el aprendizaje virtual. Los modelos de comunicación permiten comprender cómo circula la información y cómo las herramientas digitales facilitan la interacción educativa.
+La comunicación es uno de los pilares fundamentales del aprendizaje virtual.
 
-El trabajo colaborativo fortalece el aprendizaje significativo y mejora la participación activa dentro de los entornos virtuales.
+Los modelos de comunicación permiten comprender cómo circula la información dentro de los entornos digitales y cómo las herramientas tecnológicas facilitan la interacción entre docentes y estudiantes.
+
+El trabajo colaborativo fortalece el aprendizaje significativo, mejora la participación activa y mantiene funcionando el circuito comunicativo dentro de la educación virtual.
+
+---
+
+# ✨ “Conectamos ideas, transmitimos conocimiento y mantenemos activa la energía del aprendizaje.” 🚀
+
